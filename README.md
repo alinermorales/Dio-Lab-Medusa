@@ -47,3 +47,24 @@ resultando em acesso válido com credenciais fracas.
 - *Nmap* – Utilizado para varredura e enumeração de serviços
 - *Metasploitable 2* – Máquina vulnerável utilizada como alvo dos testes
 - *VirtualBox* – Plataforma de virtualização do ambiente
+
+---
+
+## 🛡️ Medidas de Mitigação
+
+Para prevenir ataques de força bruta semelhantes, recomenda-se:
+
+- Implementar políticas de senhas fortes
+- Limitar tentativas de login
+- Bloquear contas após tentativas falhas
+- Utilizar autenticação multifator
+- Monitorar logs de acesso
+- Desativar serviços desnecessários
+
+---
+
+## ⚠️ Aviso Legal
+
+Este projeto foi desenvolvido exclusivamente para fins educacionais,
+em ambiente controlado, respeitando princípios éticos e legais da
+segurança da informação.
